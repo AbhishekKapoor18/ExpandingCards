@@ -1,2 +1,3 @@
-# Projects
-This repository is all about Projects ( Practice,Side-projects and whatnot... )
+# Expanding-Cards Project
+
+One of the many projects that I'm currently doing using basic HTML, CSS And JavaScript.
